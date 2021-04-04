@@ -1,0 +1,1 @@
+export const ENV_VALIDATION_ERROR = 'Config validation error:';

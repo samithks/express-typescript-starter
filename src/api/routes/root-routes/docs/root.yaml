@@ -1,0 +1,4 @@
+/:
+  get:
+    summary: To get the root url
+    description: To check the root url working or not.

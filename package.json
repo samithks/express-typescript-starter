@@ -9,6 +9,7 @@
   },
   "private": true,
   "scripts": {
+    "postinstall": "npm-run-all --serial build",
     "clean": "rimraf dist/* tsconfig.tsbuildinfo",
     "lint": "eslint . --ext .ts",
     "format": "prettier --config .prettierrc 'src/**/*.ts' --write",
