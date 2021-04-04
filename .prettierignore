@@ -1,0 +1,7 @@
+# Ignore  files:
+package.json
+package-lock.json
+# Ignore artifacts:
+dist
+build
+coverage
