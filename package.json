@@ -55,9 +55,9 @@
     "express-rate-limit": "5.2.6",
     "helmet": "4.4.1",
     "joi": "17.4.0",
-    "morgan": "1.10.0",
+    "morgan": "1.10.1",
     "openapi-types": "7.2.3",
-    "response-time": "2.3.2",
+    "response-time": "2.3.4",
     "rotating-file-stream": "2.1.5",
     "swagger-jsdoc": "6.1.0",
     "swagger-ui-express": "4.1.6"
